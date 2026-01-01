@@ -1,14 +1,14 @@
-# 📸 Instagram Clone – Flutter & Firebase
+#  Instagram Clone – Flutter & Firebase
 
 An Instagram-like mobile application built using **Flutter** and **Firebase**, developed completely in **VS Code**.  
 This project implements core Instagram features such as authentication, posting images, viewing a feed, and basic chat UI.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Authentication (Email & Password)
-- 🖼 Upload Images with Captions
+-  User Authentication (Email & Password)
+-  Upload Images with Captions
 -  Home Feed (Realtime from Firestore)
 -  Profile Screen
 -  Chat UI (Expandable)
