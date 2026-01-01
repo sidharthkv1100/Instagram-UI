@@ -29,7 +29,7 @@ This project implements core Instagram features such as authentication, posting 
 | IDE | VS Code |
 
 ---
-
+```
 ##  Project Structure
 lib/
 ├── main.dart
